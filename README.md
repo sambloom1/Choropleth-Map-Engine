@@ -1,8 +1,10 @@
 # Vaccination-Maps
 
-A map engine I created using public health data covering vaccination programmes. The engine helped significantly in allowing me to protype and demonstrate various methids of shading along with colour schemes for each. through 3 iterations we landed on some final products that blended NHS colour schemes with the performance scale. <br>
+A map engine I created using publicly avaiable health data whih covered various vaccination programmes broken down at ICB level. <br>
+The engine helped significantly in allowing me to protype and demonstrate various methods of shading along with colour schemes for each. <br> 
+Through 3 iterations we landed on some final products that blended NHS colour schemes with the performance scale. <br>
 
-The components needed to achieve this are: <br>
+## The components needed to achieve this are: <br>
 **csv** - this allows control of the parameters
 **geopandas and geojson** - for plotting the boundaries
 **data**  - a dataset that has values with a geography id column that matches the id in the geojson
