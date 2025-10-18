@@ -5,10 +5,10 @@ The engine helped significantly in allowing me to protype and demonstrate variou
 Through 3 iterations we landed on some final products that blended NHS colour schemes with the performance scale. <br>
 
 ## The components needed to achieve this are: <br>
-**csv** - this allows control of the parameters
-**geopandas and geojson** - for plotting the boundaries
-**data**  - a dataset that has values with a geography id column that matches the id in the geojson
-**python notebook** - a python notebook for applying the transformations and reading in the control csv, data and geojson.
+**csv** - this allows control of the parameters <br>
+**geopandas and geojson** - for plotting the boundaries <br>
+**data**  - a dataset that has values with a geography id column that matches the id in the geojson <br>
+**python notebook** - a python notebook for applying the transformations and reading in the control csv, data and geojson. <br>
 
 
 
