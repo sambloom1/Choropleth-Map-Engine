@@ -1,6 +1,6 @@
 # Choropleth Vaccination Maps
 
-A map engine I created using publicly avaiable health data whih covered various vaccination programmes broken down at ICB level. <br>
+A map engine I created using publicly avaiable health data which covered various vaccination programmes broken down at ICB level. <br>
 The engine helped significantly in allowing me to protype and demonstrate various methods of shading along with colour schemes for each. <br> 
 Through 3 iterations we landed on some final products that blended NHS colour schemes with the performance scale. <br>
 
