@@ -2,7 +2,7 @@
 
 A map engine I created using public vaccination data which is aggregated at ICB level. These cuts are found on gov.uk webpages for each vaccs programme.  <br>
 
-The purpose of the engine was easily configuration and changing of paraneters which meant stakeholder changes could be quickly deployed. It also meant that if one change was applied to all then thats one column of a csv to change rather than 5 separate code pieces for each map. <br>
+The purpose of the engine was to allow easy configuration and changing of paraneters which meant stakeholder changes could be quickly deployed. It allowed broad changes e.g. colour scheme or text changes to be allocated to a column to eb editted in a a csv rather than changing each individual mapping coding for each map. <br>
 
 Really enjoyed this piece of work which combined automation with visuals. Taking bland tabular data and making it from a shaded map which anyone can intepret, big important stakeholders or jsut members of the public. <br> 
 Through 3 iterations we landed on some final products that blended NHS colour schemes with the performance scale. However for this repo I've included more exotic colour schemes. <br>
